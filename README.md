@@ -79,7 +79,7 @@ The prediction is powered by a **machine learning model (Logistic Regression)** 
 
 ##  Deployment Guide
 
-## LIVE DEMO (https://diabetes-readmission-project.streamlit.app/)
+## LIVE DEMO [**Readmission Predictor app**] (https://diabetes-readmission-project.streamlit.app/)
 
 ###  Local Setup
 
